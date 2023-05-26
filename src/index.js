@@ -4,7 +4,7 @@ import "./index.css"; // css file of index.js
 import App from "./App"; // App contains thee whole react application.
 import reportWebVitals from "./reportWebVitals";
 
-// render our react app into an element with id=root.
+// render our react app into an element with id=root. 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
